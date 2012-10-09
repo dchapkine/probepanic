@@ -1,4 +1,4 @@
-ProbPanic [play it here](http://dchapkine.github.com/probepanic)
+ProbePanic: [play it here](http://dchapkine.github.com/probepanic)
 =================================================================
 
 
